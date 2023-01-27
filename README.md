@@ -18,4 +18,28 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+  <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+    
 </div>
+</div>
+
+  --- 
+    
+    
+    ###      About Me:
+    
+    I am begginer on IT world 🌐, so I hope find my place 
+    
+    -   💫 Every single day I try to learn something new![python_icon_130849](https://user-
+    
+    -   👾 Im learning python 
+    
+    -   🏊 In my free time, I am used to swimming 
+    
+    -   ☎️ How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]()
+    
+
+    
+  ---
+
